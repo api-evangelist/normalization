@@ -1,11 +1,23 @@
+aid: normalization
 name: Normalization
-description: Normalization is a technology or concept used in computing and information
-  technology to address specific technical challenges. It provides capabilities that
-  help practitioners build, manage, or improve systems and processes in their domain.
-url: null
+description: >-
+  Normalization is a data management concept used in database design and data
+  processing to reduce data redundancy and improve data integrity. In databases,
+  normalization organizes columns and tables to minimize duplication. In data
+  processing, it refers to transforming data into a standard format for
+  consistency and comparability.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-- Normalization
-created: '2025'
-modified: '2025'
+  - Normalization
+  - Data Management
+  - Databases
+url: https://raw.githubusercontent.com/api-evangelist/normalization/refs/heads/main/apis.yml
+created: '2025-01-01'
+modified: '2026-03-16'
+specificationVersion: '0.19'
 apis: []
 common: []
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
