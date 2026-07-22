@@ -1,5 +1,6 @@
 aid: normalization
 name: Normalization
+kind: topic
 description: >-
   Normalization is a data management concept used in database design and data
   processing to reduce data redundancy and improve data integrity. In databases,
