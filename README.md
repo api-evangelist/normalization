@@ -1,4 +1,4 @@
-# Normalization (normalization)
+# normalization
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,39 +64,22 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Normalization is a data management concept used in database design and data processing to reduce data redundancy and improve data integrity. In databases, normalization organizes columns and tables to minimize duplication. In data processing, it refers to transforming data into a standard format for consistency and comparability. This index tracks normalization as a concept within the API Evangelist Network rather than a specific vendor or product API.
+## normalization on APIs.io
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/normalization/refs/heads/main/apis.yml)
+Everything profiled for normalization is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/normalization/](https://apis.io/providers/normalization/)** — or go straight to one of the APIs or properties below.
 
-## Scope
+## API Evangelist rating
 
-- **Type:** Index
-- **Position:** Concept
-- **Access:** Reference
+Not yet rated. See [apis.io/providers/normalization/](https://apis.io/providers/normalization/).
 
-## Tags
+## How this profile is made
 
-- Data Management
-- Databases
-- Normalization
-- Data Quality
-- Data Modeling
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
 
-## Timestamps
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for normalization: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
 
-- **Created:** 2025-01-01
-- **Modified:** 2026-04-28
+## Open an issue
 
-## APIs
-
-Normalization is tracked as a concept; no vendor APIs are catalogued in this repository.
-
-## Common Properties
-
-- [Reference](https://en.wikipedia.org/wiki/Database_normalization)
-
-## Maintainers
-
-**FN:** Kin Lane
-
-**Email:** kin@apievangelist.com
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/normalization/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
